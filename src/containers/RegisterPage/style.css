@@ -1,0 +1,27 @@
+
+body{
+    background-image: url("./library-438389.jpg");
+
+    /* Add the blur effect */
+    /* filter: blur(0px);
+    -webkit-filter: blur(0px); */
+  
+    /* Full height */
+    height: 200%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2  
+{  
+position: absolute; /* To place the text on the image*/ 
+top: 200px; /* The exact location of the text from the top of the image*/ 
+left: 0; /* Other beautification stuff */ 
+width: 100%;  
+text-align: center;
+color: #1D4975;
+margin-top: -130px;
+margin-left:-10px ;
+} 
