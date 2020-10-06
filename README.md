@@ -1,5 +1,14 @@
 Architecture 
 ![alt text](https://i.ibb.co/7bgyWMJ/ar.png)
+Login & Register page
+![alt text](https://i.ibb.co/xH4KbTh/1-1.png)
+![alt text](https://i.ibb.co/zrcj2GD/1.png)
+
+![](https://media.giphy.com/media/Ys5SMz9KhLOBf9Fk3N/giphy.gif)
+![](https://media.giphy.com/media/4IwK0iaESIJCJWmJnS/giphy.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
