@@ -1,4 +1,5 @@
-Architecture link https://i.ibb.co/7bgyWMJ/ar.png
+Architecture 
+![alt text](https://i.ibb.co/7bgyWMJ/ar.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
